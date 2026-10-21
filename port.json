@@ -1,0 +1,28 @@
+{
+  "$schema": "https://living-code.dev/port.schema.json",
+  "schemaVersion": 1,
+  "name": "Posting",
+  "slug": "posting",
+  "group": "CLI & TUI",
+  "emoji": "📮",
+  "description": "Living Code for Posting: native YAML palettes for HTTP requests, response status, syntax colors, focus and layered UI surfaces.",
+  "homepage": "https://posting.sh",
+  "quick": "Install the native theme files",
+  "aliases": [
+    "http client",
+    "posting tui"
+  ],
+  "flavors": [
+    "night",
+    "frost",
+    "paper",
+    "signal"
+  ],
+  "files": [
+    "themes/living-code-night.yaml",
+    "themes/living-code-frost.yaml",
+    "themes/living-code-paper.yaml",
+    "themes/living-code-signal.yaml"
+  ],
+  "images": []
+}

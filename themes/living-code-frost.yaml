@@ -1,0 +1,12 @@
+name: living-code-frost
+dark: true
+primary: "#98bacd"
+secondary: "#b6e2df"
+accent: "#d49c80"
+background: "#0a1016"
+surface: "#10171c"
+panel: "#171e24"
+text: "#e2e9ee"
+success: "#a2cb9d"
+warning: "#e9c897"
+error: "#d68079"

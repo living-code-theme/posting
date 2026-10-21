@@ -1,0 +1,12 @@
+name: living-code-night
+dark: true
+primary: "#80b6d3"
+secondary: "#9ae0dd"
+accent: "#e18c5f"
+background: "#05080b"
+surface: "#090e11"
+panel: "#12171a"
+text: "#e2e9ee"
+success: "#8acb83"
+warning: "#f0be6d"
+error: "#e96560"

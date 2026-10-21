@@ -1,0 +1,23 @@
+{
+  "repository": "darrenburns/posting",
+  "revision": "32c45669032342cf9b95d5758af47a0d93de0ad7",
+  "paths": [
+    "docs/guide/themes.md"
+  ],
+  "checked": "2026-10-21",
+  "contract": "yaml",
+  "fields": [
+    "name",
+    "dark",
+    "primary",
+    "secondary",
+    "accent",
+    "background",
+    "surface",
+    "panel",
+    "text",
+    "success",
+    "warning",
+    "error"
+  ]
+}

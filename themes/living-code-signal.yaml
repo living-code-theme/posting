@@ -1,0 +1,12 @@
+name: living-code-signal
+dark: true
+primary: "#c8cfd4"
+secondary: "#00a692"
+accent: "#e2e9ee"
+background: "#05080b"
+surface: "#090e11"
+panel: "#12171a"
+text: "#e2e9ee"
+success: "#c8cfd4"
+warning: "#c8cfd4"
+error: "#e2e9ee"
