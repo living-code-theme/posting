@@ -8,7 +8,7 @@
     "capture/flake.nix": "4d70cb1b57051fad9240577990c8e26d2eeb561c9c0e5ec7aba6c9c124c64b88",
     "palette/theme.json": "d735cf005e3b2807953226c0119e384f6f8a3d2b3167443371cb302a8c689cdb",
     "port.json": "b5bcff08a044fe933b93fb10ddebdc5075e78977a5852a58b90cc187d5dc2f22",
-    "scripts/capture.py": "dcb8dc5d8a6ecbf2eb998eab90d678c745c9de6e9d35ded82edc0a949cb7e4e8",
+    "scripts/capture.py": "1fefb763f00567b795b92388b29e3e8c3fd58bd0eefa9c2f31e43663cad7a308",
     "themes/living-code-frost.yaml": "d6cebb996029a5ca1e81f61bed87cc79c4398a42906a389e4d2ed8314dc05c56",
     "themes/living-code-night.yaml": "0c2b237dacb16a5a19d94d287b0b1686e6793111d6f25a61c9ae35a753bfada4",
     "themes/living-code-paper.yaml": "b6a206f056b099432292a16beab4a8d17d6129d8303f9e88c18041208d56b18c",
@@ -17,7 +17,7 @@
   "images": {
     "night": {
       "path": "images/night.png",
-      "sha256": "790a347e031534a68601577c904efc09baa9f61f977f451a4b17d3bd9e08f913",
+      "sha256": "074057793697d15cd4eea01e1360b7044584cb6a2b135a2fad68922011cd4426",
       "application": "posting-2.11.0",
       "paletteColors": [
         "#05080b",
@@ -30,7 +30,7 @@
     },
     "frost": {
       "path": "images/frost.png",
-      "sha256": "7124c5fde24176ee13db3fc998baf6dc79000fedd7a99e2f2f6f71ad95ac4ea8",
+      "sha256": "f5f2badd77c3cb42510c1d7d0fa2506510841e904c5ec1729dcec6d97f7e95c1",
       "application": "posting-2.11.0",
       "paletteColors": [
         "#0a1016",
@@ -44,7 +44,7 @@
     },
     "paper": {
       "path": "images/paper.png",
-      "sha256": "37d9dc0ca61366eceeef1c16787b24382df5847820a396da8702f6c7edc7e561",
+      "sha256": "10f2089aea10c3dbc81e7884b93ccacdfd9c2355cd82937a2016173d0eda9652",
       "application": "posting-2.11.0",
       "paletteColors": [
         "#1f7074",
@@ -58,7 +58,7 @@
     },
     "signal": {
       "path": "images/signal.png",
-      "sha256": "bf50bedabf453c246f8098bf69a961e91ec4bd298d766387881ef514f3ad956b",
+      "sha256": "c2acdadd90ad1aa18e90c1968cf3a73e18aba304ab6163e832d2605cf1837776",
       "application": "posting-2.11.0",
       "paletteColors": [
         "#00a692",
