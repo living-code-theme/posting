@@ -36,12 +36,12 @@ Select any preview to view the image at full size.
 
 ```sh
 flavor=night # night, frost, paper, or signal
-theme_dir="$(posting locate themes)"
+theme_dir="$(posting locate themes | tail -n 1)"
 curl -fsSL --create-dirs -o "$theme_dir/living-code-$flavor.yaml" "https://raw.githubusercontent.com/living-code-theme/posting/main/themes/living-code-$flavor.yaml"
 POSTING_THEME="living-code-$flavor" posting
 ```
 
-`posting locate themes` supplies the application’s actual theme directory, so the download works with custom and platform-specific data locations. Restart an already running Posting instance after adding a new file. No existing config or collection is replaced.
+`posting locate themes` prints a heading followed by the application’s actual theme directory; `tail -n 1` selects only that path. The download therefore works with custom and platform-specific data locations. Restart an already running Posting instance after adding a new file. No existing config or collection is replaced.
 
 ## Flavors
 
