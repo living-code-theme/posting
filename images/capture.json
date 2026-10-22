@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "scene": "Posting native request editor with a local sample collection; no external HTTP request.",
+  "inputs": {
+    "capture/app.py": "2c0df6084fbe60e95cc561689188a093ee1da7108b4e2b4026054e6b12010339",
+    "capture/config.json": "9396d68de68eb9987ce328ffdc03de3ff67742cc21a730c0767bd4fed20e6134",
+    "capture/flake.lock": "e3750f7ba25d0b1971722cdd83b2f07e32528980a4d6a9a1ea55177747de5752",
+    "capture/flake.nix": "712651ff95a8dd96aaf83b3e3b372992973b74ac4f69d9b38463aeeadd053a60",
+    "palette/theme.json": "d735cf005e3b2807953226c0119e384f6f8a3d2b3167443371cb302a8c689cdb",
+    "port.json": "b5bcff08a044fe933b93fb10ddebdc5075e78977a5852a58b90cc187d5dc2f22",
+    "scripts/capture.py": "6830da447e48a4ab5511012b5222763677214e8a98683b94c60248765202ca9f",
+    "themes/living-code-frost.yaml": "d6cebb996029a5ca1e81f61bed87cc79c4398a42906a389e4d2ed8314dc05c56",
+    "themes/living-code-night.yaml": "0c2b237dacb16a5a19d94d287b0b1686e6793111d6f25a61c9ae35a753bfada4",
+    "themes/living-code-paper.yaml": "b6a206f056b099432292a16beab4a8d17d6129d8303f9e88c18041208d56b18c",
+    "themes/living-code-signal.yaml": "3dc114b6c66e260364cfdbe6c437d0b3e80c529d6863c6827cd98893afbbeef4"
+  },
+  "images": {
+    "night": {
+      "path": "images/night.png",
+      "sha256": "8b62bc5251c7641c83eef52f6b87cf0ed204b2de966fdaf771478fb2fc69c4cd",
+      "application": "posting-2.11.0",
+      "paletteColors": [
+        "#05080b",
+        "#090e11",
+        "#12171a",
+        "#80b6d3",
+        "#9ae0dd",
+        "#e18c5f"
+      ]
+    },
+    "frost": {
+      "path": "images/frost.png",
+      "sha256": "f5f2badd77c3cb42510c1d7d0fa2506510841e904c5ec1729dcec6d97f7e95c1",
+      "application": "posting-2.11.0",
+      "paletteColors": [
+        "#0a1016",
+        "#10171c",
+        "#171e24",
+        "#232a30",
+        "#98bacd",
+        "#b6e2df",
+        "#d49c80"
+      ]
+    },
+    "paper": {
+      "path": "images/paper.png",
+      "sha256": "10f2089aea10c3dbc81e7884b93ccacdfd9c2355cd82937a2016173d0eda9652",
+      "application": "posting-2.11.0",
+      "paletteColors": [
+        "#1f7074",
+        "#2b6991",
+        "#a04f27",
+        "#d2d8dd",
+        "#e3e9ed",
+        "#ebeff2",
+        "#f4f7f9"
+      ]
+    },
+    "signal": {
+      "path": "images/signal.png",
+      "sha256": "c2acdadd90ad1aa18e90c1968cf3a73e18aba304ab6163e832d2605cf1837776",
+      "application": "posting-2.11.0",
+      "paletteColors": [
+        "#00a692",
+        "#05080b",
+        "#090e11",
+        "#12171a",
+        "#c8cfd4",
+        "#e2e9ee"
+      ]
+    }
+  }
+}

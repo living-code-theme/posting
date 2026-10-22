@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "scene": "Posting native request editor with a local sample collection; no external HTTP request.",
+  "versionCommand": [
+    "python3",
+    "-c",
+    "import pathlib,shutil;print(pathlib.Path(shutil.which('posting')).resolve().parts[-3].split('-',1)[1])"
+  ],
+  "fixtures": []
+}
