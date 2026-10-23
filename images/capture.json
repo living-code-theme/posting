@@ -9,48 +9,43 @@
     "palette/theme.json": "d735cf005e3b2807953226c0119e384f6f8a3d2b3167443371cb302a8c689cdb",
     "port.json": "b5bcff08a044fe933b93fb10ddebdc5075e78977a5852a58b90cc187d5dc2f22",
     "scripts/capture.py": "1fefb763f00567b795b92388b29e3e8c3fd58bd0eefa9c2f31e43663cad7a308",
-    "themes/living-code-frost.yaml": "d6cebb996029a5ca1e81f61bed87cc79c4398a42906a389e4d2ed8314dc05c56",
-    "themes/living-code-night.yaml": "0c2b237dacb16a5a19d94d287b0b1686e6793111d6f25a61c9ae35a753bfada4",
-    "themes/living-code-paper.yaml": "b6a206f056b099432292a16beab4a8d17d6129d8303f9e88c18041208d56b18c",
-    "themes/living-code-signal.yaml": "3dc114b6c66e260364cfdbe6c437d0b3e80c529d6863c6827cd98893afbbeef4"
+    "themes/living-code-frost.yaml": "c272d3c3d8b13e3c62d626b8e0863ea85d5daddbe30014d9ef7495ed14877436",
+    "themes/living-code-night.yaml": "0e01fea0e766c6f91dbbbb7612d93d1b631d8e97db0b453c9e5ff0d0ae6a4e87",
+    "themes/living-code-paper.yaml": "66ef6f031b87cda3ebae40a0ad566fe33ee4a0a8a0091de4ee0f5c49899af360",
+    "themes/living-code-signal.yaml": "bc5d59adddbd522b0b24009b639a24a275eff4760f61b0b3aee2c2a2fdea2a9a"
   },
   "images": {
     "night": {
       "path": "images/night.png",
-      "sha256": "074057793697d15cd4eea01e1360b7044584cb6a2b135a2fad68922011cd4426",
+      "sha256": "4532be14c2ac50f803468b74493cca31f2bab178d1fce270ed371c8c01da11f7",
       "application": "posting-2.11.0",
       "paletteColors": [
+        "#00a692",
         "#05080b",
         "#090e11",
         "#12171a",
-        "#80b6d3",
-        "#9ae0dd",
-        "#e18c5f"
+        "#9ae0dd"
       ]
     },
     "frost": {
       "path": "images/frost.png",
-      "sha256": "f5f2badd77c3cb42510c1d7d0fa2506510841e904c5ec1729dcec6d97f7e95c1",
+      "sha256": "89846768a8374f7dbac09e55e749d8d9532779f24571feaf6acc9e14b1601125",
       "application": "posting-2.11.0",
       "paletteColors": [
         "#0a1016",
         "#10171c",
         "#171e24",
-        "#232a30",
-        "#98bacd",
-        "#b6e2df",
-        "#d49c80"
+        "#43a997",
+        "#b6e2df"
       ]
     },
     "paper": {
       "path": "images/paper.png",
-      "sha256": "10f2089aea10c3dbc81e7884b93ccacdfd9c2355cd82937a2016173d0eda9652",
+      "sha256": "52a3a23cd8b7485af05397e4609276b151257033a7c486c5c6339c1ddcf729e3",
       "application": "posting-2.11.0",
       "paletteColors": [
+        "#187d6e",
         "#1f7074",
-        "#2b6991",
-        "#a04f27",
-        "#d2d8dd",
         "#e3e9ed",
         "#ebeff2",
         "#f4f7f9"
@@ -58,15 +53,13 @@
     },
     "signal": {
       "path": "images/signal.png",
-      "sha256": "c2acdadd90ad1aa18e90c1968cf3a73e18aba304ab6163e832d2605cf1837776",
+      "sha256": "fa80c688ffc077ad3e35160a3a70e78f2fc8cd434c88537c179fa82aa41bbb97",
       "application": "posting-2.11.0",
       "paletteColors": [
         "#00a692",
         "#05080b",
         "#090e11",
-        "#12171a",
-        "#c8cfd4",
-        "#e2e9ee"
+        "#12171a"
       ]
     }
   }

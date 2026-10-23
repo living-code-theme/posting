@@ -1,8 +1,8 @@
 name: living-code-paper
 dark: false
-primary: "#2b6991"
+primary: "#187d6e"
 secondary: "#1f7074"
-accent: "#a04f27"
+accent: "#187d6e"
 background: "#f4f7f9"
 surface: "#ebeff2"
 panel: "#e3e9ed"

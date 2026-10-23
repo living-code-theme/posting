@@ -1,8 +1,8 @@
 name: living-code-signal
 dark: true
-primary: "#c8cfd4"
+primary: "#00a692"
 secondary: "#00a692"
-accent: "#e2e9ee"
+accent: "#00a692"
 background: "#05080b"
 surface: "#090e11"
 panel: "#12171a"

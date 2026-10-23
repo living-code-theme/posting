@@ -1,8 +1,8 @@
 name: living-code-frost
 dark: true
-primary: "#98bacd"
+primary: "#43a997"
 secondary: "#b6e2df"
-accent: "#d49c80"
+accent: "#43a997"
 background: "#0a1016"
 surface: "#10171c"
 panel: "#171e24"
